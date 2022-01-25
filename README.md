@@ -1,3 +1,7 @@
+# Tela inicial do Projeto
+![tela inicial](https://user-images.githubusercontent.com/44067889/150887713-5649a245-5131-48b9-ae31-927504b453b7.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
